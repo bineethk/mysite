@@ -13,5 +13,5 @@ This is about page.
 
 This is a [link](http://www.bineethk.github.io)
 
-![demo image](/assets/images/apple.jpg)
+![demo](/assets/images/apple.jpg)
 
