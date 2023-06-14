@@ -1,8 +1,7 @@
 ---
 # front matter tells Jekyll to process Liquid
 layout: default
-title:  "Check out!"
-date:   2023-06-14 12:00:00 +0530
+title:  About
 ---
 
 This is about page.
@@ -14,5 +13,3 @@ This is about page.
 ### This is another heading.
 
 This is a [link](http://www.bineethk.github.io)
-
-
