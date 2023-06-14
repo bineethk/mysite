@@ -1,7 +1,16 @@
 ---
 layout: default
-title: About
+title:  "Check out!"
+date:   2023-06-14 12:00:00 +0530
 ---
+This is about page.
+
 # About page
 
-This page tells you a little bit about me.
+## This is a heading.
+
+### This is another heading.
+
+This is a [link](http://www.bineethk.github.io)
+
+This is my category: 
