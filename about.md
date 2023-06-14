@@ -13,4 +13,4 @@ This is about page.
 
 This is a [link](http://www.bineethk.github.io)
 
-![demo image](/bineethk/mysite/assets/images/june.jpg)
+![demo image](/bineethk/mysite/assets/images/demo.jpg)
