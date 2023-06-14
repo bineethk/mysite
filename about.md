@@ -12,3 +12,5 @@ This is about page.
 ### This is another heading.
 
 This is a [link](http://www.bineethk.github.io)
+
+![demo image](/mysite/assets/images/june.jpg)
