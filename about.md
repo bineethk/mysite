@@ -12,5 +12,3 @@ This is about page.
 ### This is another heading.
 
 This is a [link](http://www.bineethk.github.io)
-
-This is my category: 
